@@ -1,0 +1,27 @@
+.gaming-container {
+  margin-left: 230px;
+  width: 100%;
+}
+.gaming-icon {
+  background-color: #fff;
+  width: 50px;
+  height: 50px;
+  border-radius: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.gametitle-container {
+  background-color: #f6f3f3;
+  display: flex;
+  align-items: center;
+  padding: 10px 50px;
+}
+.gaming-video-list {
+  list-style-type: none;
+  padding: 25px 40px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

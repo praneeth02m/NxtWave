@@ -1,0 +1,23 @@
+.videoplayer-container {
+  margin-left: 18%;
+  width: 100%;
+  padding: 20px 20px;
+}
+.videoplayer-options {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.profile-description {
+  display: flex;
+}
+
+.sss {
+  display: flex;
+  align-items: center;
+}
+.videopageOpt-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+}

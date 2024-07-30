@@ -1,0 +1,34 @@
+.trendvideo-container {
+  text-decoration: none;
+  color: #000;
+  display: flex;
+}
+.trend-list {
+  display: flex;
+  margin-bottom: 30px;
+}
+.thumbnail-trend {
+  width: 100%;
+  height: 150px;
+}
+@media (min-width: 576px) {
+  .thumbnail-trend {
+    width: 30%;
+    margin-right: 10px;
+  }
+}
+.trend-profile-description {
+  display: flex;
+  margin-top: 8px;
+}
+.trend-small {
+  display: block;
+}
+@media (min-width: 576px) {
+  .trend-small {
+    display: none;
+  }
+  .trend-profile-description {
+    margin-top: 0px;
+  }
+}
